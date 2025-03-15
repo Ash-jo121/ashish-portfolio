@@ -8,11 +8,11 @@ const Hero = () => {
         <h1 className="text-5xl md:text-7xl font-bold mb-6 text-white">
           Hello, I'm{' '}
           <span className="gradient-text font-extrabold">
-            Ashish John
+            Ashish
           </span>
         </h1>
         <p className="text-xl md:text-2xl text-gray-300 mb-8">
-          Frontend Developer | Problem Solver | Tech Enthusiast | Gamer
+          Frontend Developer | Problem Solver | Tech Enthusiast
         </p>
         <a
           href="#about"
